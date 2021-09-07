@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Titulo">Ingreso de Datos del Vehiculo</string>
+    <string name="modelo">Nombre Modelo :</string>
+    <string name="Equipo">Full Equipo :</string>
+
+    <string-array name="modelos">
+        <item>Etios</item>
+        <item>Yaris</item>
+        <item>GR-Yaris</item>
+        <item>Corrolla</item>
+        <item>Prius</item>
+        <item>Camry</item>
+        <item>Hilux</item>
+        <item>C-HR</item>
+        <item>Rav-4</item>
+        <item>SW4</item>
+        <item>Land prado</item>
+        <item>Versa</item>
+        <item>Sentra</item>
+        <item>Kicks</item>
+        <item>Xtrail</item>
+        <item>Murano</item>
+        <item>Navarra</item>
+        <item>leaf</item>
+        <item>Urvan</item>
+        <item>Sail</item>
+        <item>Onix sedan</item>
+        <item>Onix turvo</item>
+        <item>Grovee</item>
+        <item>Tracker</item>
+        <item>Spin</item>
+        <item>Captiva </item>
+        <item>Suburban</item>
+        <item>N-400</item>
+        <item>Colorado</item>
+        <item>Silverado</item>
+        <item>Camaro</item>
+        <item>Spark</item>
+        <item>Celerio</item>
+        <item>Alto</item>
+        <item>Dzire</item>
+        <item>Baleno</item>
+        <item>Swift</item>
+        <item>Jimmy</item>
+        <item>Vitara</item>
+        <item>S-cross</item>
+        <item>Ertiga</item>
+        <item>Otro</item>
+    </string-array>
+</resources>
